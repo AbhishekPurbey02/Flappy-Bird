@@ -1,9 +1,4 @@
 
----
-
-## ✅ `README.md` for **Flappy Bird Clone**
-
-```markdown
 # 🕹️ Flappy Bird Clone
 
 A nostalgic side-scrolling game developed in **Flutter**, this Flappy Bird clone replicates the addictive gameplay of the original. Built for fun and practice, it demonstrates custom animation, collision detection, and game state management from scratch.
